@@ -1,0 +1,38 @@
+body{
+    background-image:url("assets/fundo-index\ comida.jpg");
+
+    background-attachment: fixed;
+
+    background-size: cover;
+
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(165, 5, 5);
+    font-size: 100px;
+    font-family: gigi;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+
+}
+
+button{
+    display: block;
+    margin: 30px auto;
+    background-color: rgb(139, 139, 183);
+    border-radius: 10px;
+}
+
+a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 5px
+
+}

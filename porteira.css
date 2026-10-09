@@ -30,3 +30,9 @@ img {
     margin-right: auto;
 }
 
+button{
+    display: block;
+    margin: 30px auto;
+    background-color: black;
+    border-radius: 100px;
+}

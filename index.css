@@ -17,7 +17,7 @@ h1 {
 
 p{
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 0);
     font-size: 40px;
 
 }
@@ -25,14 +25,14 @@ p{
 button{
     display: block;
     margin: 30px auto;
-    background-color: rgb(139, 139, 183);
-    border-radius: 10px;
+    background-color: black;
+    border-radius: 100px;
 }
 
 a{
     display: block;
     color: white;
     text-decoration: none;
-    margin: 5px
+    margin: 50px
 
 }

@@ -1,0 +1,38 @@
+body{
+    background-image:url("assets/plano-de-fundo-restaurantes.avif");
+
+    background-attachment: fixed;
+
+    background-size: cover;
+
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(165, 5, 5);
+    font-size: 100px;
+    font-family: gigi;
+}
+
+p{
+    text-align: center;
+    color: rgb(255, 255, 0);
+    font-size: 40px;
+
+}
+
+button{
+    display: block;
+    margin: 30px auto;
+    background-color: black;
+    border-radius: 100px;
+}
+
+a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 50px
+
+}

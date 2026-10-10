@@ -36,3 +36,11 @@ button{
     background-color: black;
     border-radius: 100px;
 }
+
+a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 50px
+
+}
